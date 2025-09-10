@@ -6,6 +6,7 @@ df.head()
 
 df.describe()
 
-# Let's see what the average value is for everyone
+# Let's see what the min value is for everyone
 
-df['value'].mean()
+df['value'].min()
+
